@@ -23,7 +23,7 @@ const displayPhones=(phones,dataLimit)=>{
     if(phones.length == 0){
         noPhone.classList.remove('d-none');
     }
-    else{
+    else{                                                                                                                                                                                                                                                                                                      
         noPhone.classList.add('d-none');
     }
 
